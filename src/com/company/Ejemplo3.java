@@ -21,9 +21,9 @@ public class Ejemplo3 {
         }else if(dia == 4){
             System.out.println("Jueves");
         }else if(dia == 5){
-            System.out.println("Jueves");
+            System.out.println("Viernes");
         }else{
-            System.out.println("Hoy se bebeeeeee");
+            System.out.println("Es fin de semana");
         }
     }
 }
